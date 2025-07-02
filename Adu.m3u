@@ -1,0 +1,42 @@
+#EXTM3U
+
+x-url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml, https://raw.github.com/matthuisman/i.mjh.nz/master/PlutoTV/us.xml.gz, https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/epgs/tvpass-epg.xml, https://tvpass.org/epg.xml, https://github.com/atone77721/CIGNAL_EPG/raw/refs/heads/main/merged_epg.xml.gz"
+
+#EXTINF:-1 tvg-id="Playboy.us" tvg-name="Playboy" group-logo="https://i.imgur.com/1ryqkMd.png" parent-code="0000" tvg-logo="https://i.imgur.com/Fc9AdGR_d.png" group-title="Adult",Playboy TV
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+
+#EXTINF:-1 type="series" group-logo="https://image.tmdb.org/t/p/original/kXCAjfoYWcZxGuOIA3HHDN0Lf4n.jpg" parent-code="0000" tvg-logo="https://image.tmdb.org/t/p/original/dTQLrV5V0jjL7drAEKQx5C3C7Jw.jpg" group-title="Wow Mani",Episode 01
+https://hollymoviehd.com/streamsvr/PwGS_gfSlF/0-2?e=MmdQTTd6S0NuZVh0RmFlbTlmd2p1dVlnb3o1MDlzLzNFMDI0RzdRbllMaz0I
+
+#EXTINF:-1 type="series" group-logo="https://image.tmdb.org/t/p/original/kXCAjfoYWcZxGuOIA3HHDN0Lf4n.jpg" parent-code="0000" tvg-logo="https://image.tmdb.org/t/p/original/dTQLrV5V0jjL7drAEKQx5C3C7Jw.jpg" group-title="Wow Mani",Episode 02
+https://hollymoviehd.com/streamsvr/gkpQvLafrA/0-4?e=dUkxUzhRSWR0ZUJ3cS80cGMzWTluSjNGZWQ3a2N5Rnh0NlJ3dDhXeG1JND0A
+
+#EXTINF:-1 type="series" group-logo="https://image.tmdb.org/t/p/original/kXCAjfoYWcZxGuOIA3HHDN0Lf4n.jpg" parent-code="0000" tvg-logo="https://image.tmdb.org/t/p/original/dTQLrV5V0jjL7drAEKQx5C3C7Jw.jpg" group-title="Adult",Episode 03
+https://hollymoviehd.com/streamsvr/usUVQXLsyv/0-1?e=LzBpMzZpYmRTT1I3V1BSU0d6MnR6SXFHOVRla0VrYzJ5MEtKcnFpaGRxcz0E
+
+#EXTINF:-1 type="series" group-logo="https://image.tmdb.org/t/p/original/kXCAjfoYWcZxGuOIA3HHDN0Lf4n.jpg" parent-code="0000" tvg-logo="https://image.tmdb.org/t/p/original/dTQLrV5V0jjL7drAEKQx5C3C7Jw.jpg" group-title="Wow Mani",Episode 04
+https://hollymoviehd.com/streamsvr/QaaFzSjcSK/0-2?e=U0ZJTFJzc1dZWXVPWEF6eWIzT1B6K2wwZVY0RmsrS0FUaHduS1ZJTlY3RT0O
+
+#EXTINF:-1 type="series" group-logo="https://image.tmdb.org/t/p/original/kXCAjfoYWcZxGuOIA3HHDN0Lf4n.jpg" parent-code="0000" tvg-logo="https://image.tmdb.org/t/p/original/dTQLrV5V0jjL7drAEKQx5C3C7Jw.jpg" group-title="Wow Mani",Episode 05
+https://hollymoviehd.com/streamsvr/7qQp9jEAay/0-4?e=VmZsK3R5VGVnRnIwSEh3RlUwR2tnc3JUY3loUHdzOXpEMlk0N0xJUUpsWT0E
+
+#EXTINF:-1 type="series" group-logo="https://image.tmdb.org/t/p/original/kXCAjfoYWcZxGuOIA3HHDN0Lf4n.jpg" parent-code="0000" tvg-logo="https://image.tmdb.org/t/p/original/dTQLrV5V0jjL7drAEKQx5C3C7Jw.jpg" group-title="Wow Mani",Episode 06
+https://hollymoviehd.com/streamsvr/QaaFzSjcSK/0-2?e=U0ZJTFJzc1dZWXVPWEF6eWIzT1B6K2wwZVY0RmsrS0FUaHduS1ZJTlY3RT0O
+
+#EXTINF:-1 type="series" group-logo="https://image.tmdb.org/t/p/original/dKzHZwuvbVpUWwglgRW46v6W3kX.jpg" parent-code="0000" tvg-logo="https://image.tmdb.org/t/p/original/zryUBNyJ2sWPeSDcnm9zEKHTlp5.jpg" group-title="Pantaxa Laiya",Episode 01
+https://hollymoviehd.com/streamsvr/C6ED1wCkrO/0-5?e=U05GMnJjbGVEQytrRkJOS2hPbGVuVlE2VzdYdTJCM3hLeDEvOStLR013cz0A
+
+#EXTINF:-1 type="series" group-logo="https://image.tmdb.org/t/p/original/dKzHZwuvbVpUWwglgRW46v6W3kX.jpg" parent-code="0000" tvg-logo="https://image.tmdb.org/t/p/original/hLtxU3GD5lClQtuTvF1tQlkNUnQ.jpg" group-title="Pantaxa Laiya",Episode 02
+https://hollymoviehd.com/streamsvr/jlaGpRLpE3/0-5?e=QzZWeDFKcC9YTDF6QTZOQUNDNHV2dGJGdjh3aGZLRUV6aER5ZVVzNCtVQT0I
+
+#EXTINF:-1 type="series" group-logo="https://image.tmdb.org/t/p/original/dKzHZwuvbVpUWwglgRW46v6W3kX.jpg" parent-code="0000" tvg-logo="https://image.tmdb.org/t/p/original/r2afhTREzEli18PF8uq9WuyJNkz.jpg" group-title="Pantaxa Laiya",Episode 03
+https://hollymoviehd.com/streamsvr/BAmxS6W5PA/0-4?e=Unk1UGpxN3gwdnp1WjBSNk5OdmRTNmZxcFR1allHc25LZlJybU13SW9IST0O
+
+#EXTINF:-1 type="series" group-logo="https://image.tmdb.org/t/p/original/dKzHZwuvbVpUWwglgRW46v6W3kX.jpg" parent-code="0000" tvg-logo="https://image.tmdb.org/t/p/original/pvCIWjn8nigUs2ZCREtKCEefwhe.jpg" group-title="Pantaxa Laiya",Episode 04
+https://hollymoviehd.com/streamsvr/ssPWL_MvXG/0-1?e=TXhMZTFqVVhTRm53NjA1cm1Ddk9zYStqdnR1ZXRseDNtUzgrOE1JeGsyUT0U
+
+#EXTINF:-1 type="series" group-logo="https://image.tmdb.org/t/p/original/dKzHZwuvbVpUWwglgRW46v6W3kX.jpg" parent-code="0000" tvg-logo="https://image.tmdb.org/t/p/original/xzagEdjDssopJLsvhAeusgyroLD.jpg" group-title="Pantaxa Laiya",Episode 05
+https://hollymoviehd.com/streamsvr/U-J06SeRZ0/0-3?e=a0hVK2dnTDZRRHkrM1g1RUxhUml6K1RjcHcyZUlhZnJsYnZDTCtxQlBQST0E
+
+#EXTINF:-1 type="series" group-logo="https://image.tmdb.org/t/p/original/dKzHZwuvbVpUWwglgRW46v6W3kX.jpg" parent-code="0000" tvg-logo="https://image.tmdb.org/t/p/original/dd6akzUKzTHhdKsvJJZHbG65aRW.jpg" group-title="Pantaxa Laiya",Episode 06
+https://hollymoviehd.com/streamsvr/zb90uS2-wJ/0-3?e=QmphRmdDc08wUmJoNFFFY1BwZ1hhb1lncHJNN1IyQjl0SnJYbEd3Y2NvYz0A
